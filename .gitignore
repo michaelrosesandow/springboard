@@ -1,3 +1,9 @@
 # ignore virtualenv
 venv/*
 !venv/README.md
+
+# ignore json
+*.json
+
+# ignore dotfiles
+.*
